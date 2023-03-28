@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Ejercicio_2_Slack_Cosa</RootNamespace>
-  </PropertyGroup>
-
-</Project>

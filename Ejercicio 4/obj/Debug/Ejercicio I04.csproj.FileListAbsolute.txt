@@ -1,8 +1,0 @@
-C:\Users\assas\OneDrive\Escritorio\Programs\Git\Workspace_c_sharp\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
-C:\Users\assas\OneDrive\Escritorio\Programs\Git\Workspace_c_sharp\Ejercicio 4\bin\Debug\Ejercicio 4.exe
-C:\Users\assas\OneDrive\Escritorio\Programs\Git\Workspace_c_sharp\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
-C:\Users\assas\OneDrive\Escritorio\Programs\Git\Workspace_c_sharp\Ejercicio 4\obj\Debug\Ejercicio I04.csproj.AssemblyReference.cache
-C:\Users\assas\OneDrive\Escritorio\Programs\Git\Workspace_c_sharp\Ejercicio 4\obj\Debug\Ejercicio I04.csproj.SuggestedBindingRedirects.cache
-C:\Users\assas\OneDrive\Escritorio\Programs\Git\Workspace_c_sharp\Ejercicio 4\obj\Debug\Ejercicio I04.csproj.CoreCompileInputs.cache
-C:\Users\assas\OneDrive\Escritorio\Programs\Git\Workspace_c_sharp\Ejercicio 4\obj\Debug\Ejercicio 4.exe
-C:\Users\assas\OneDrive\Escritorio\Programs\Git\Workspace_c_sharp\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
