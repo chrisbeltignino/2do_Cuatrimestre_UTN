@@ -10,6 +10,21 @@ namespace Ejercicio_4
     {
         static void Main(string[] args)
         {
+            int contador = 1;
+            int numero = 1;
+
+            while (contador < 5)
+            {
+                if (ValidadorPerfecto.EsNumeroPerfecto(numero))
+                {
+                    Console.WriteLine("El numero {0} es perfecto {1}", contador, numero);
+                    contador++;
+                }
+
+                numero++;
+            }
+            Console.ReadLine();
+            /*
             int num = 1;
             int contador;
 
@@ -35,6 +50,7 @@ namespace Ejercicio_4
                 }
             }
             Console.ReadLine();
+            */
         }
     }
 }

@@ -7,7 +7,6 @@ namespace Ejercicio_14
         static void Main(string[] args)
         {
             string ingreso;
-            int resultado;
             int numero;
 
             Console.Write("Ingrese primer numero: ");

@@ -15,19 +15,17 @@ namespace Ejercicio_2
             Console.Write("Ingresar un numero: ");
             numero = int.Parse(Console.ReadLine());
 
-            if(numero > 0)
+            while (Validador.Validar(numero))
             {
-                double elevadoAlCubo = Math.Pow(numero, 3); // Elevarlo a la potencia 3
-                double elevadoAlCuadrado = Math.Pow(numero, 2); // Elevarlo a la potencia 2
+                Console.Write("ERROR. Ingresar un número CORRECTO: ");
+                numero = int.Parse(Console.ReadLine());
+            }
 
-                Console.WriteLine("{0} elevado al cubo es {1} \n{0} elevado al cuadrado es {2}", numero, elevadoAlCubo, elevadoAlCuadrado);
-                Console.ReadLine();
-            }
-            else
-            {
-                Console.WriteLine("ERROR. ¡Reingresar número!");
-                Console.ReadLine();
-            }
+            double elevadoAlCubo = Math.Pow(numero, 3); // Elevarlo a la potencia 3
+            double elevadoAlCuadrado = Math.Pow(numero, 2); // Elevarlo a la potencia 2
+
+            Console.WriteLine("{0} elevado al cubo es {1} \n{0} elevado al cuadrado es {2}", numero, elevadoAlCubo, elevadoAlCuadrado);
+            Console.ReadLine();
         }
     }
 }

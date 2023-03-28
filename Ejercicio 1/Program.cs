@@ -30,7 +30,7 @@ namespace Ejercicio_1
             int acumulador = 0;
             float promedio;
 
-            for (int i = 1; i < 10; i++)
+            for (int i = 0; i < 10; i++)
             {
                 Console.Write($"Ingrese el número {i}: ");
                 numero = int.Parse(Console.ReadLine());

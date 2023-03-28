@@ -10,6 +10,32 @@ namespace Ejercicio_5
     {
         static void Main(string[] args)
         {
+            Console.Write("Ingrese un número: ");
+            string input = Console.ReadLine();
+
+            int num;
+
+            while (!int.TryParse(input, out num))
+            {
+                if (input.ToLower() == "salir")
+                {
+                    return;
+                }
+
+                Console.WriteLine("Error: debe ingresar un número o escribir 'salir' para terminar.");
+                Console.Write("Ingrese un número: ");
+                input = Console.ReadLine();
+            }
+
+            Console.WriteLine($"Centros numéricos hasta {num}:");
+            for (int i = 1; i <= num; i++)
+            {
+                if (ValidadorCentroNumerico.EsCentroNumerico(i))
+                {
+                    Console.WriteLine(i);
+                }
+            }
+            /*
             int numeroIngresado;
             int sumaAdelante;
             int sumaAtras;
@@ -47,7 +73,9 @@ namespace Ejercicio_5
                     Console.WriteLine("*-----------------------------*", n, i);
                     n++;
                 }
+                Console.ReadLine();
             }
+            */
         }
     }
 }

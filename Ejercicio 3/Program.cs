@@ -10,6 +10,43 @@ namespace Ejercicio_3
     {
         static void Main(string[] args)
         {
+            bool operar = true;
+
+            while (operar)
+            {
+                Console.Write("Ingrese un número o escriba 'salir' para terminar: ");
+                string entrada = Console.ReadLine();
+
+                if (entrada.ToLower() == "salir")
+                {
+                    return;
+                }
+
+                if (!int.TryParse(entrada, out int num))
+                {
+                    Console.WriteLine("Entrada inválida. Por favor, ingrese un número entero o escriba 'salir' para terminar.");
+                    continue;
+                }
+
+                Console.WriteLine($"Los números primos hasta {num} son:");
+
+                for (int i = 2; i <= num; i++)
+                {
+                    if (ValidadorPrimo.EsPrimo(i))
+                    {
+                        Console.WriteLine(i);
+                    }
+                }
+
+                Console.Write("¿Desea volver a operar? (S/N): ");
+                string respuesta = Console.ReadLine();
+
+                if (respuesta.ToLower() != "s")
+                {
+                    operar = false;
+                }
+            }
+            /*
             int numero;
             int n = 2;
             int total = 1;
@@ -66,6 +103,7 @@ namespace Ejercicio_3
                     break;
                 }
             } while (salir == false);
+            */
         }
     }
 }
