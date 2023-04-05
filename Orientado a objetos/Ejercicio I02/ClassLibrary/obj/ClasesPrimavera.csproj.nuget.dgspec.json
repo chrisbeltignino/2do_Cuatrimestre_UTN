@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\assas\\OneDrive\\Escritorio\\C#\\Workspace_C#\\Orientado a objetos\\Ejercicio I02\\ClassLibrary\\ClasesPrimavera.csproj": {}
+    "C:\\Users\\assas\\OneDrive\\Escritorio\\Programs\\Git\\Workspace_c_sharp\\Orientado a objetos\\Ejercicio I02\\ClassLibrary\\ClasesPrimavera.csproj": {}
   },
   "projects": {
-    "C:\\Users\\assas\\OneDrive\\Escritorio\\C#\\Workspace_C#\\Orientado a objetos\\Ejercicio I02\\ClassLibrary\\ClasesPrimavera.csproj": {
+    "C:\\Users\\assas\\OneDrive\\Escritorio\\Programs\\Git\\Workspace_c_sharp\\Orientado a objetos\\Ejercicio I02\\ClassLibrary\\ClasesPrimavera.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\assas\\OneDrive\\Escritorio\\C#\\Workspace_C#\\Orientado a objetos\\Ejercicio I02\\ClassLibrary\\ClasesPrimavera.csproj",
+        "projectUniqueName": "C:\\Users\\assas\\OneDrive\\Escritorio\\Programs\\Git\\Workspace_c_sharp\\Orientado a objetos\\Ejercicio I02\\ClassLibrary\\ClasesPrimavera.csproj",
         "projectName": "ClasesPrimavera",
-        "projectPath": "C:\\Users\\assas\\OneDrive\\Escritorio\\C#\\Workspace_C#\\Orientado a objetos\\Ejercicio I02\\ClassLibrary\\ClasesPrimavera.csproj",
+        "projectPath": "C:\\Users\\assas\\OneDrive\\Escritorio\\Programs\\Git\\Workspace_c_sharp\\Orientado a objetos\\Ejercicio I02\\ClassLibrary\\ClasesPrimavera.csproj",
         "packagesPath": "C:\\Users\\assas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\assas\\OneDrive\\Escritorio\\C#\\Workspace_C#\\Orientado a objetos\\Ejercicio I02\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\assas\\OneDrive\\Escritorio\\Programs\\Git\\Workspace_c_sharp\\Orientado a objetos\\Ejercicio I02\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\assas\\OneDrive\\Escritorio\\C#\\Workspace_C#\\Clases y metodos estaticos\\Ejercicio I02\\Ejercicio I02.csproj": {}
+    "C:\\Users\\assas\\OneDrive\\Escritorio\\Programs\\Git\\Workspace_c_sharp\\Clases y metodos estaticos\\Ejercicio I02\\Ejercicio I02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\assas\\OneDrive\\Escritorio\\C#\\Workspace_C#\\Clases y metodos estaticos\\Ejercicio I02\\Ejercicio I02.csproj": {
+    "C:\\Users\\assas\\OneDrive\\Escritorio\\Programs\\Git\\Workspace_c_sharp\\Clases y metodos estaticos\\Ejercicio I02\\Ejercicio I02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\assas\\OneDrive\\Escritorio\\C#\\Workspace_C#\\Clases y metodos estaticos\\Ejercicio I02\\Ejercicio I02.csproj",
+        "projectUniqueName": "C:\\Users\\assas\\OneDrive\\Escritorio\\Programs\\Git\\Workspace_c_sharp\\Clases y metodos estaticos\\Ejercicio I02\\Ejercicio I02.csproj",
         "projectName": "Ejercicio I02",
-        "projectPath": "C:\\Users\\assas\\OneDrive\\Escritorio\\C#\\Workspace_C#\\Clases y metodos estaticos\\Ejercicio I02\\Ejercicio I02.csproj",
+        "projectPath": "C:\\Users\\assas\\OneDrive\\Escritorio\\Programs\\Git\\Workspace_c_sharp\\Clases y metodos estaticos\\Ejercicio I02\\Ejercicio I02.csproj",
         "packagesPath": "C:\\Users\\assas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\assas\\OneDrive\\Escritorio\\C#\\Workspace_C#\\Clases y metodos estaticos\\Ejercicio I02\\obj\\",
+        "outputPath": "C:\\Users\\assas\\OneDrive\\Escritorio\\Programs\\Git\\Workspace_c_sharp\\Clases y metodos estaticos\\Ejercicio I02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
